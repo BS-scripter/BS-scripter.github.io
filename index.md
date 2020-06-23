@@ -1,6 +1,6 @@
-# Das K?nguruh
+# Das K?nguru
 
-Das K&aumlngguruh ist die Hauptfigur der K?nguruh-Chroniken. Es ist kommunistisch.
+Das K&aumlnguru ist die Hauptfigur der K?nguru-Chroniken. Es ist kommunistisch.
 
 ## Eigenschaften
 
@@ -11,5 +11,9 @@ Das K&aumlngguruh ist die Hauptfigur der K?nguruh-Chroniken. Es ist kommunistisc
 ## Zitat
 
 > Ein Idiot in Uniform ist immer noch ein Idiot
-Das Känguruh
 
+Das Känguru
+
+## Bild
+<img src="https://www.film-rezensionen.de/wp-content/uploads/2020/03/Die-Kaenguru-Chroniken-Szene-2.jpg">
+Bild: https://www.film-rezensionen.de/wp-content/uploads/2020/03/Die-Kaenguru-Chroniken-Szene-2.jpg
